@@ -1,0 +1,2 @@
+# stylelint と競合するため
+src/**/*.css
