@@ -1,3 +1,11 @@
+# Version 固定
+
+- `@typescript-eslint/eslint-plugin`：4.0.1
+- `@typescript-eslint/parser`：4.0.1
+
+ESLint でエラーが出力されるため。バグっぽい
+[reactjs - 'React' was used before it was defined - Stack Overflow](https://stackoverflow.com/questions/63818415/react-was-used-before-it-was-defined)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
